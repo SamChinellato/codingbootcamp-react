@@ -1,4 +1,10 @@
+## coding-bootcamp-react
+
+Welcome to coding-bootcamp-react. This project is a POC for building a skeleton website in react. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+To run first install [Node Package Manager](https://www.npmjs.com/)
 
 ## Available Scripts
 
@@ -11,6 +17,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+
+Make sure to install all project dependencies through:
+
+### `npm install <dependency>
 
 ### `npm test`
 
