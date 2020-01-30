@@ -4,7 +4,7 @@ Welcome to coding-bootcamp-react. This project is a POC for building a skeleton 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To run first install [Node Package Manager](https://www.npmjs.com/)
+To run first install [Node Package Manager](https://www.npmjs.com/install)
 
 ## Available Scripts
 
