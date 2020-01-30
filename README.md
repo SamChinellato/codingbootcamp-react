@@ -1,4 +1,4 @@
-##coding-bootcamp-react
+## coding-bootcamp-react
 
 Welcome to coding-bootcamp-react. This project is a POC for building a skeleton website in react. 
 
