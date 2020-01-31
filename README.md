@@ -20,7 +20,7 @@ You will also see any lint errors in the console.
 
 If `npm start` fails due to missing npm dependencies, make sure to install all project dependencies through:
 
-### `npm install <dependency>
+### `npm install <dependency>`
 
 
 ### `npm test`
