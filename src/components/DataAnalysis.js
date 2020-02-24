@@ -19,7 +19,7 @@ const DataAnalysis = () => {
     <Card.Body>
       <Card.Title>DataCamp</Card.Title>
       <Card.Text>
-        DataCamp is a great resource for courses on core front end technologies such as HTML, CSS and JavaScript
+        DataCamp is a great resource for courses on Data Analysis (Python/R), machine learning, AI and much more
       </Card.Text>
       <Button href="https://www.datacamp.com/" variant="primary">Go to DataCamp </Button>
     </Card.Body>
@@ -43,7 +43,7 @@ const DataAnalysis = () => {
     <Card.Body>
       <Card.Title>Towards Data Science</Card.Title>
       <Card.Text>
-        FreeCodecamp is a great resource that teaches you how to code through projects. There are lots of different languages and resources available
+        Towards Data Science is a great resource for Data Science news and projects
       </Card.Text>
       <Button href="https://towardsdatascience.com/" variant="primary">Go to Towards Data Science</Button>
     </Card.Body>

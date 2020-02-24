@@ -7,21 +7,20 @@ const home = () => {
     return (
        <div>
           <h1>Welcome to Code Bootcamp</h1>
-          <h3>Welcome to coding bootcamp where you can learn how to code from any level of experience</h3>
+          <h3>Welcome to Code Bootcamp where you can learn how to code from any level of experience.</h3>
           <br></br>
           <p>
-             <h3> Need help getting started? Answer the following questions, alternatively if you know what you want to learn head to the menu!</h3> <br></br><br></br>
-              <h2>What is your level of experience with coding?</h2>
-          </p>
+             <h3> Need help getting started? Answer the following questions, alternatively, if you know what you want to learn, head to the menu!</h3> <br></br><br></br>
+              <h2>To start, press the button below:</h2>
+          </p> <br></br><br></br>
           
-          <ButtonGroup>
-              <div class="btn-group" role="group" aria-label="First group">
-              <Button href="./Interests" variant="success" size="lg">Beginner</Button>
-              <Button href="./Interests" variant="warning" size="lg">Intermediate</Button>
-              <Button href="./Interests" variant="danger" size="lg">Advanced</Button>
+              <div class= "container bouncing">
+              <Button href="./Interests" variant="success" size="lg">
+              Begin <span class="glyphicon glyphicon-ok-sign" aria-hidden="true"></span>
+              </Button>
               </div>
         
-              </ButtonGroup>  
+           
        </div>
        
     );

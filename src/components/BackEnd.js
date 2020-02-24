@@ -11,7 +11,7 @@ const FrontEnd = () => {
        
    
     <div>
-       <h1> So, You're Interested in Back End?</h1> <br></br>
+       <h1> So, you're interested in Back End?</h1> <br></br>
           <h2>Here are some great resources</h2><br></br>
         
           <CardGroup>

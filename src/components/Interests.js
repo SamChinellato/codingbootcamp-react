@@ -8,7 +8,7 @@ const Interests = () => {
    
        <div>
           <div>
-          <h1>What Are you interested in? </h1>
+          <h1>What Are you Interested In? </h1>
           <br></br> <br></br>
           </div>
           <ButtonGroup>
@@ -22,7 +22,7 @@ const Interests = () => {
     Programming for Data Analysis/Data Science
   </Button>
   <Button href="./MobileApps" size="lg" block>
-    Develop Mobile Application
+    Develop Mobile Applications
   </Button>
               </ButtonGroup>
 

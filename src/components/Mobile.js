@@ -18,7 +18,7 @@ const DataAnalysis = () => {
     <Card.Body>
       <Card.Title>Swift</Card.Title>
       <Card.Text>
-        Swift is Apple's programming language for Apps. They offer great tutorials
+        Swift is Apple's programming language for Apps. They offer great tutorials:
       </Card.Text>
       <Button href="https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/" variant="primary">Go to Swift Intro </Button>
     </Card.Body>
@@ -30,7 +30,7 @@ const DataAnalysis = () => {
     <Card.Body>
       <Card.Title>Kotlin</Card.Title>
       <Card.Text>
-        Kotlin is the main programming language for Android Devices. Here's a great Tutorial
+        Kotlin is the main programming language for Android Devices. Here's a great tutorial:
       </Card.Text>
       <Button href="https://kotlinlang.org/docs/tutorials/kotlin-for-py/introduction.html" variant="primary">Go to Kotlin Intro</Button>
     </Card.Body>
